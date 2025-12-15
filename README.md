@@ -90,6 +90,36 @@ I'm passionate about web development and building creative projects. Check out m
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=saad1444&theme=radical)
 
 
+## 🧑‍💻 Data Science & AI Projects
+
+### Skills & Tools:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-F5B400?style=flat-square&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square&logo=seaborn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-6F42C1?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F61?style=flat-square)
+
+### Projects:
+
+- [**Weather Classification ML**](https://nbviewer.org/github/saad1444/Weather-Classification-ML/blob/main/weather%20data%20assignment.ipynb)  
+  *Machine learning project predicting weather conditions using Python, Pandas, and ML models.*
+
+- [**Superstore EDA & Analysis**](https://github.com/saad1444/Super-store-EDA-Analysiss/blob/main/Super-store-EDA-Analysis.ipynb)  
+  *Exploratory Data Analysis of Superstore sales using Python, Pandas, Matplotlib, and Seaborn.*
+
+- [**GOOGL Stock Time Series Analysis**](https://github.com/saad1444/GOOGL-Stock-Time-Series-Analysis/blob/main/GOOGL-Stock-Time-Series-Analysis.ipynb)  
+  *Time series analysis and stock prediction using Python, Pandas, and Matplotlib.*
+
+- [**Digit Recognition Web App**](https://app-digit-app-43uc2ulprb5mqqkq23tss9.streamlit.app/)  
+  *Streamlit app for handwritten digit recognition using machine learning.*
+
+- [**Pneumonia Detection System**](https://pneumonia-detection-system-vexxzyp69viyj3bzcsscx3.streamlit.app/)  
+  *AI-based pneumonia detection from X-ray images using PyTorch and CNNs.*
+
+
 
 
 ## 📫 Contact: 03323108506
