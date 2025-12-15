@@ -32,7 +32,7 @@ I strive to turn creative ideas into functional and beautiful web experiences. L
 
 - 🔭 I’m currently working on [Tech Startup Landing Page](https://saad1444.github.io/tech-start-up-landing-page-website)
 - 🌱 I’m currently learning html, css, java script, and bootsrtrap
-- 💬 Ask me about web development, JavaScript, and anything tech-related
+- 💬 Ask me about web development, JavaScript, and anything tech-relatedd
 
 ## 🧑‍💻 Projects:
 - [**Pizza Website**](https://saad1444.github.io/online-pizza-order-website/)  
